@@ -12,5 +12,5 @@ sky:
     access-key-secret: s6CRipSUf9NaqiJWGbqMe9tVHUMtuo
     bucket-name: 12bubu
   redis:
-    host: localhost
+    host: 121.41.58.226
     port: 6379
